@@ -109,6 +109,8 @@ Y así solo va a compilar los archivos que estoy ejecutando.
 
 ---
 
+:computer: Lo podés ver acá -> [https://eugenia1984.github.io/tailwind-css/](https://eugenia1984.github.io/tailwind-css/)
+
 ---
 
 ## Por favor: 🎁
