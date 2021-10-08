@@ -1,8 +1,18 @@
-## Curso Udemy : Express Tailwind
+## 📖 Curso Udemy : Express Tailwind
 
 ---
 
-## ¿ Qué instalo ?
+## Temas:
+
+    * Conceptos fundamentales para crear sitios web con Tailwind CSS
+    * Mejores prácticas al usar componentes y estilos
+    * Uso del compilador JIT
+    * Creación de estilos arbitrarios
+    * Creación de componentes reusables
+
+---
+
+## ¿ Qué instalar ?
 
 Para instalar 4 módulos:
 
@@ -96,5 +106,20 @@ Y así solo va a compilar los archivos que estoy ejecutando.
 **postcss.config.js**: configuración de pluggins.
 
 **tailwind.config.js**: configuro la forma en que se trabajara con Tailwind a nivel de compilación.
+
+---
+
+---
+
+## Por favor: 🎁
+
+* Comparte este proyecto con otros 📢
+* Invita con una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Muchas gracias 🤓.
+
+---
+
+## Notas:
+Aprecio tu interés por este ropositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y seguime en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta) 
 
 ---
